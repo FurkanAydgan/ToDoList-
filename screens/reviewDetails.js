@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, View, Text, Image } from 'react-native';
 import { globalStyles, Images } from '../styles/global';
-import Card from '../shared/card';
+import Card2 from '../shared/card2';
 
 export default function Home({ navigation }) {
 
@@ -10,14 +10,14 @@ export default function Home({ navigation }) {
     return (
 
         <View style={globalStyles.container}>
-            <Card>
+            <Card2>
                 <Text> {navigation.getParam('title')} </Text>
                 <Text> {navigation.getParam('body')} </Text>
                 <View style={styles.rating} >
-                    <Text> GameZone rating </Text>
+                    <Text> Not derecesi </Text>
                     <Image source={Images.ratings[rating]} />
                 </View>
-            </Card>
+            </Card2>
         </View>
     )
 

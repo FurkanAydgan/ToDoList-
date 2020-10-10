@@ -19,7 +19,7 @@ const screen = {
     ReviewDetails: {
         screen: ReviewDetails,
         navigationOptions: {
-            title: 'Review Detail',
+            title: 'İçerik Detayları',
         }
     }
 

@@ -6,13 +6,7 @@ export default function Card(props) {
   return (
     <View style={styles.card}>
       <View style={styles.cardContent}>{props.children}</View>
-      <View>
-      <Button
-        onPress={props.pressHandler}
-        style={styles.button_Stlye}
-        title="Sil"
-      />
-      </View>
+     
     </View>
     
   );

@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, Image,ImageBackground } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons';
-import { globalStyles } from '../styles/global';
+
 
 export default function Header({ navigation }) {
 
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
         fontSize: 20,
         color: '#333',
         letterSpacing: 1,
-        left: 30
+        left: 20
     },
 
     header: {
