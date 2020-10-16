@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "684262871559",
-    "firebase_url": "https://gamezone-edc11.firebaseio.com",
-    "project_id": "gamezone-edc11",
-    "storage_bucket": "gamezone-edc11.appspot.com"
+    "project_number": "788920846889",
+    "firebase_url": "https://todolist-56c20.firebaseio.com",
+    "project_id": "todolist-56c20",
+    "storage_bucket": "todolist-56c20.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:684262871559:android:a8df69fb32147e86ca10a2",
+        "mobilesdk_app_id": "1:788920846889:android:a12b6faf8ae67d479d6a38",
         "android_client_info": {
-          "package_name": "com.company.gamezone"
+          "package_name": "com.todolistfirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "684262871559-28f5mf6iee65uvi4geeikgdc1ql1ihvd.apps.googleusercontent.com",
+          "client_id": "788920846889-2jsu5u7604h6lipl3s1kgjsrufa2hdav.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCytINcQbjRPDe5-mRoRNwalgZt_hiR9bI"
+          "current_key": "AIzaSyB0ypK9aHHcfTYm1QnJKc_kp04x1NEXs6w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "684262871559-28f5mf6iee65uvi4geeikgdc1ql1ihvd.apps.googleusercontent.com",
+              "client_id": "788920846889-2jsu5u7604h6lipl3s1kgjsrufa2hdav.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
